@@ -1,2 +1,5 @@
-[B]0.7.0[/B]
-- First release.
+[B]0.7.4[/B]- Better deal with some timing issues of booting and waiting for video to start.
+[B]0.7.3[/B]- Works with XBMC 13 Gotham now.
+[B]0.7.2[/B]- Wait video to start before skipping to location.
+[B]0.7.1[/B]- Updated so it will repeatedly try to resume at boot if the drive isn't mounted yet.
+[B]0.7.0[/B]- First release.
